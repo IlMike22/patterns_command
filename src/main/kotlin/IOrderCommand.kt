@@ -1,0 +1,3 @@
+interface IOrderCommand {
+    fun execute()
+}
